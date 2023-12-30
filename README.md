@@ -28,7 +28,7 @@
 Leveraging the capabilities of Finalize AI, Finalize Pixel presents a straightforward approach to image upscaling and enhancement. It's designed for a range of users, from professional graphic designers to photography enthusiasts.
 
 
-![preview](https://raw.githubusercontent.com/finalize-ai/.github/a6ec1797b573d7c58fce5d90280bd4745bd28d7d/upscale.gif)
+![preview](https://raw.githubusercontent.com/finalize-ai/.github/main/upscale.gif)
 
 ## Notable Features:
 
